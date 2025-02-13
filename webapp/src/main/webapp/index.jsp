@@ -25,7 +25,7 @@
     <input type="text" placeholder="Enter Aadhar Number" name="aadhar" id="aadhar" required>
     <br>
 
-    <label for="frind"><b>name</b></label>
+    <label for="friend"><b>name</b></label>
     <input type="text" placeholder="Enter name" name="name" id="name" required>
     <br>
 
