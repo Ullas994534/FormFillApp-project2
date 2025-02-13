@@ -25,7 +25,11 @@
     <input type="text" placeholder="Enter Aadhar Number" name="aadhar" id="aadhar" required>
     <br>
 
+<<<<<<< HEAD
     <label for="brother name"><b>name</b></label>
+=======
+    <label for="friend"><b>name</b></label>
+>>>>>>> refs/remotes/origin/main
     <input type="text" placeholder="Enter name" name="name" id="name" required>
     <br>
 
